@@ -1,4 +1,4 @@
-"use strict"
+"use strict";
 mongoose = require("mongoose")
 Thing = mongoose.model("Thing")
 

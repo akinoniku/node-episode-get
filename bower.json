@@ -8,11 +8,16 @@
     "angular-resource": "1.2.11",
     "angular-cookies": "1.2.11",
     "angular-sanitize": "1.2.11",
-    "angular-route": "1.2.11"
+    "angular-route": "1.2.11",
+    "underscore": "~1.6.0",
+    "underscore.string": "~2.3.3",
+    "jquery": "~2.1.0",
+    "foundation": "~5.2.2",
+    "PreloadJS": "*"
   },
   "devDependencies": {
     "angular-mocks": "1.2.11",
     "angular-scenario": "1.2.11"
   },
-  "testPath": "test/client/spec"  
+  "testPath": "test/client/spec"
 }

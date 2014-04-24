@@ -1,4 +1,4 @@
-"use strict"
+"use strict";
 path = require("path")
 
 ### Send partial, or 404 if it doesn't exist ###
